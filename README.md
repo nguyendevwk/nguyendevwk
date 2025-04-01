@@ -1,4 +1,4 @@
-# <div align="center">🧠 KỸ SƯ TRÍ TUỆ NHÂN TẠO & HỌC MÁY</div>
+# <div align="center">🧠 AI & Machine Learning Engineer</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Engineer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="AI Banner" width="100%" />
