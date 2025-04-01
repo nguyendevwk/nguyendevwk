@@ -60,11 +60,13 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework_AI-00BFFF?style=for-the-badge)
 
-#### 👁️ Thị Giác Máy Tính
+#### 👁️ Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FaceNet](https://img.shields.io/badge/FaceNet-Nhận_Diện_Khuôn_Mặt-FF6F00?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-Tích_Hợp_Mô_Hình-0061F2?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-Tối_Ưu_Hóa_Mô_Hình-FE4C00?style=for-the-badge&logo=nvidia&logoColor=white)
 
 #### 🧬 Tối Ưu Hóa AI
 
