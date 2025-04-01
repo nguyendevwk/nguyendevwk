@@ -38,7 +38,7 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 </div>
 
 <div align="center">
-  <img src="[/api/placeholder/850/250](https://github.com/nguyendevwk/nguyendevwk/blob/main/hero-animation.gif)" alt="AI Research Visualization" width="850"/>
+  <img src="https://github.com/nguyendevwk/nguyendevwk/blob/main/hero-animation.gif" alt="AI Research Visualization" width="850"/>
 </div>
 
 <p align="center">
