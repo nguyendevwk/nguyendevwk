@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;NLP+Specialist;Computer+Vision+Expert;%26+Metaheuristic+Optimization+Researcher&center=true&width=500&height=50&duration=3000&pause=1000&color=00BFFF&size=24&font=Fira%20Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;NLP+Specialist;Computer+Vision+Expert;%26+Metaheuristic+Optimization&center=true&width=500&height=50&duration=3000&pause=1000&color=00BFFF&size=24&font=Fira%20Code" alt="Typing SVG">
 </div>
 
 <p align="center">
