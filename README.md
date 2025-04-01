@@ -1,30 +1,52 @@
 <h1 align="center">Hi, I'm Phạm Nguyễn 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=phamnguyen&label=Profile%20views&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phamnguyen&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 🎓 IT Engineer at **Industrial University of Ho Chi Minh City**  
 🏆 **2nd Prize** - Research Competition (Metaheuristic Optimization)  
-📚 Writing papers on **GWO-GA Hybrid Algorithms**  
-🎵 Learning **Music Production** in free time  
+🧠 Specializing in **LLM, AI Optimization, and Computer Vision**  
+📚 Writing papers on **GWO-GA Hybrid Algorithms for University Scheduling**  
+🎵 Learning **Music Production** in my free time  
 
 ---
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-FDB52E?style=flat&logo=apachespark&logoColor=white)
+## 💻 Tech Stack & Expertise  
+
+### 🧠 **Artificial Intelligence & Machine Learning**  
+- **LLM & NLP**: GPT, Llama, LangChain, Hugging Face Transformers  
+- **Computer Vision**: OpenCV, TorchVision, FaceNet (PyTorch)  
+- **Optimization Algorithms**: GWO, GA, Hybrid Metaheuristics  
+
+### 🔥 **Deep Learning Frameworks**  
+- PyTorch, TensorFlow, Keras  
+- Hugging Face Transformers, Diffusers  
+- YOLO, OpenCV  
+
+### 📡 **Big Data & Distributed Systems**  
+- **Spark ML** for large-scale data processing  
+- **Dask & Ray** for distributed AI workloads  
+
+### 🌐 **Web & API Development**  
+- **Backend**: Django, Flask, FastAPI  
+- **Frontend**: React.js, HTML/CSS  
+- **Deployment**: Docker, Nginx, Gunicorn  
+
+### 🚀 **Optimization & Scheduling**  
+- **Metaheuristic Algorithms**: GWO-GA Hybrid, PSO, SA  
+- **University Scheduling**: Timetable Optimization with AI  
 
 ---
 
 ## 🔥 Featured Projects  
-📌 **[AI Fire Detection System](https://github.com/yourrepo)** - Multi-camera flame detection  
-📌 **[Metaheuristic Scheduling](https://github.com/yourrepo)** - Hybrid GWO-GA optimization  
-📌 **[Personal AI Assistant](https://github.com/yourrepo)** - Raspberry Pi assistant  
+📌 **[Smart University Scheduling System](https://github.com/yourrepo)** - Optimized 3000+ classes using AI  
+📌 **[AI Fire Detection System](https://github.com/yourrepo)** - Multi-camera fire detection with PyTorch  
+📌 **[LLM Chatbot for Education](https://github.com/yourrepo)** - AI-powered chatbot for personalized learning  
+📌 **[Metaheuristic Scheduling with GWO-GA](https://github.com/yourrepo)** - Hybrid optimization algorithm  
 
 ---
 
@@ -40,4 +62,5 @@
 🌐 **Blog:** [yourblog.com](https://yourblog.com)  
 
 ---
+
 ✨ *"AI is the future, and I'm here to optimize it!"* 🚀  
