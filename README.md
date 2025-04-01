@@ -38,7 +38,7 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 </div>
 
 <div align="center">
-  <img src="/api/placeholder/850/250" alt="AI Research Visualization" width="850"/>
+  <img src="[/api/placeholder/850/250](https://github.com/nguyendevwk/nguyendevwk/blob/main/hero-animation.gif)" alt="AI Research Visualization" width="850"/>
 </div>
 
 <p align="center">
@@ -240,12 +240,12 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 
 <!-- SVG Động Tùy Chỉnh -->
 <div align="center">
-  <img src="https://svgshare.com/i/CUz.svg" width="800" alt="Mạng Lưới Neuron AI" />
+  <img src="https://github.com/nguyendevwk/nguyendevwk/blob/main/neuralNet.gif" width="800" alt="Mạng Lưới Neuron AI" />
 </div>
 
 <!-- Hiệu ứng đồ họa đậm chất công nghệ -->
-<div align="center">
+<!--<div align="center">
   <img src="/api/placeholder/1200/200" alt="AI Technology Effect" />
-</div>
+</div>-->
 
 <!-- Nhớ thay thế URL, tên người dùng và email với thông tin thực tế của bạn -->
