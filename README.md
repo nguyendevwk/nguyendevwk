@@ -17,14 +17,14 @@
 ## <div align="center">🚀 Đổi Mới & Sáng Tạo Với Trí Tuệ Nhân Tạo</div>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?logo=github&style=for-the-badge&labelColor=black&color=20BEFF" alt="Người theo dõi" />
+  <a href="https://github.com/nguyendevwk">
+    <img src="https://img.shields.io/github/followers/nguyendevwk?logo=github&style=for-the-badge&labelColor=black&color=20BEFF" alt="Người theo dõi" />
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/stars/yourusername?logo=github&style=for-the-badge&labelColor=black&color=FFD700" alt="Sao GitHub" />
+    <img src="https://img.shields.io/github/stars/nguyendevwk?logo=github&style=for-the-badge&labelColor=black&color=FFD700" alt="Sao GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Chuyên_Môn-Nghiên_Cứu_AI-brightgreen?style=for-the-badge&labelColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Lượt xem" />
+  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=for-the-badge&color=blueviolet" alt="Lượt xem" />
 </p>
 
 <div align="center">
@@ -109,7 +109,7 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/yourusername/llm-research">
+      <a href="https://github.com/nguyendevwk/llm-research">
         <img src="/api/placeholder/400/200" alt="Nghiên Cứu LLM" style="border-radius: 10px;"/>
         <br />
         <b>🔍 Nghiên Cứu LLM Tiên Tiến</b>
@@ -118,7 +118,7 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
       <p>Fine-tuning và tối ưu hóa mô hình ngôn ngữ lớn cho các lĩnh vực chuyên biệt 📚</p>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/yourusername/cv-object-detection">
+      <a href="https://github.com/nguyendevwk/cv-object-detection">
         <img src="/api/placeholder/400/200" alt="Hệ Thống Thị Giác Máy Tính" style="border-radius: 10px;"/>
         <br />
         <b>👁️ Nhận Diện Đối Tượng Thời Gian Thực</b>
@@ -129,7 +129,7 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/yourusername/metaheuristic-toolkit">
+      <a href="https://github.com/nguyendevwk/metaheuristic-toolkit">
         <img src="/api/placeholder/400/200" alt="Bộ Công Cụ Tối Ưu Hóa" style="border-radius: 10px;"/>
         <br />
         <b>🧬 Bộ Công Cụ Tối Ưu Hóa Meta-heuristic</b>
@@ -138,7 +138,7 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
       <p>Thư viện toàn diện về các thuật toán tối ưu hóa lấy cảm hứng từ tự nhiên 🌱</p>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/yourusername/ai-api-service">
+      <a href="https://github.com/nguyendevwk/ai-api-service">
         <img src="/api/placeholder/400/200" alt="Dịch Vụ API AI" style="border-radius: 10px;"/>
         <br />
         <b>🌐 Nền Tảng AI-as-a-Service</b>
@@ -157,17 +157,17 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 
 <div align="center">
 
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/nguyendevwk">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=vi" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&locale=vi" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/nguyendevwk">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&locale=vi" width="45%" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/nguyendevwk">
     <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=3&row=2&margin-w=15&margin-h=15" width="45%" />
   </a>
 </div>
