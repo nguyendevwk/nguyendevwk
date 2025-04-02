@@ -158,22 +158,22 @@ Tôi là Kỹ sư AI chuyên về các Mô hình Ngôn ngữ Lớn (LLM), Thị 
 <div align="center">
 
   <a href="https://github.com/nguyendevwk">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=vi" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&locale=vi" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nguyendevwk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=vi" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendevwk&theme=tokyonight&hide_border=true&locale=vi" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/nguyendevwk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&locale=vi" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevwk&layout=compact&theme=tokyonight&hide_border=true&locale=vi" width="45%" />
   </a>
   <a href="https://github.com/nguyendevwk">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=3&row=2&margin-w=15&margin-h=15" width="45%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nguyendevwk&theme=nord&column=3&row=2&margin-w=15&margin-h=15" width="45%" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true" width="95%" alt="Biểu Đồ Đóng Góp"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=nguyendevwk&theme=react-dark&hide_border=true" width="95%" alt="Biểu Đồ Đóng Góp"/>
 </div>
 
 <div align="center">
