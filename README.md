@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/🔥_XIN_CHÀO_!_TÔI_LÀ_CHUYÊN_GIA_AI_🔥-blue?style=for-the-badge&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/🔥_XIN_CHÀO_!_TÔI_LÀ_MỘT_CHÀNG_TRAI_CÓ_NIỀM_ĐAM_MÊ_MÃNH_LIỆT_VỚI_AI_🔥-blue?style=for-the-badge&labelColor=1a1a1a" />
   </a>
 </p>
 
