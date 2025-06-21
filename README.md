@@ -19,6 +19,8 @@
 
 ## 🚀 Kỹ năng nổi bật
 
+## 🚀 Kỹ năng nổi bật
+
 <p align="center">
   <!-- LLM & NLP -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
@@ -27,7 +29,7 @@
 
   <!-- Computer Vision -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/onnx/onnx-original.svg" width="50" title="ONNX"/>
+  <img src="https://img.shields.io/badge/ONNX-0061F2?style=flat-square&logo=onnx&logoColor=white" title="ONNX"/>
 
   <!-- Optimization -->
   <img src="https://img.shields.io/badge/GA-Genetic%20Algorithm-9370DB?style=flat-square" title="GA"/>
