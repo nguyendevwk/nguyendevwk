@@ -16,50 +16,58 @@
 </p>
 
 ---
+---
 
 ## 🚀 Kỹ năng nổi bật
 
-## 🚀 Kỹ năng nổi bật
-
-<p align="center">
-  <!-- LLM & NLP -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"/>
-
-  <!-- Computer Vision -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/>
-  <img src="https://img.shields.io/badge/ONNX-0061F2?style=flat-square&logo=onnx&logoColor=white" title="ONNX"/>
-
-  <!-- Optimization -->
-  <img src="https://img.shields.io/badge/GA-Genetic%20Algorithm-9370DB?style=flat-square" title="GA"/>
-  <img src="https://img.shields.io/badge/PSO-Particle%20Swarm-4169E1?style=flat-square" title="PSO"/>
-
-  <!-- Web & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/>
-</p>
+<div align="center">
+  <!-- Card wrapper -->
+  <div style="display: inline-block; background: #1a1a1a; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+    <!-- Row of icons -->
+    <p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" style="margin:0 12px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" style="margin:0 12px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" style="margin:0 12px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" title="OpenCV" style="margin:0 12px;" />
+      <img src="https://img.shields.io/badge/ONNX-0061F2?style=flat-square&logo=onnx&logoColor=white" height="40" title="ONNX" style="margin:0 12px;" />
+      <img src="https://img.shields.io/badge/GA-9370DB?style=flat-square&logoColor=white" height="40" title="Genetic Algorithm" style="margin:0 12px;" />
+      <img src="https://img.shields.io/badge/PSO-4169E1?style=flat-square&logoColor=white" height="40" title="Particle Swarm" style="margin:0 12px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" style="margin:0 12px;" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker" style="margin:0 12px;" />
+    </p>
+    <!-- Labels row -->
+    <p style="color:#ccc; font-size:14px; margin:8px 0 0;">
+      Python • PyTorch • TensorFlow • OpenCV • ONNX  
+      • Genetic Algorithm • PSO • FastAPI • Docker
+    </p>
+  </div>
+</div>
 
 ---
 
 ## 🌟 Dự án nổi bật
 
 <div align="center">
-  <table>
+  <table cellpadding="12">
     <tr>
-      <td align="center" width="45%">
+      <td align="center" style="background:#111; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.6);">
         <a href="https://github.com/nguyendevwk/llm-research">
-          <img src="https://via.placeholder.com/300x150/00BFFF/ffffff?text=LLM+Research" alt="LLM Research" style="border-radius:8px;"/>
-          <h4 style="margin:8px 0; color:#00BFFF;">🔍 LLM Research</h4>
-          <p>Fine-tune & tối ưu LLM cho các domain chuyên biệt.</p>
+          <img src="https://via.placeholder.com/300x150/00BFFF/ffffff?text=LLM+Research" alt="LLM Research" style="border-radius:6px; margin-bottom:8px;" width="280"/>
         </a>
+        <h4 style="margin:4px 0; color:#00BFFF;">🔍 LLM Research</h4>
+        <p style="max-width:280px; color:#ddd; font-size:14px;">
+          Fine-tune và tối ưu hóa Large Language Models cho các lĩnh vực chuyên biệt.
+        </p>
       </td>
-      <td align="center" width="45%">
+      <td width="20"></td> <!-- spacer -->
+      <td align="center" style="background:#111; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.6);">
         <a href="https://github.com/nguyendevwk/cv-object-detection">
-          <img src="https://via.placeholder.com/300x150/FFD700/1a1a1a?text=CV+Detection" alt="CV Detection" style="border-radius:8px;"/>
-          <h4 style="margin:8px 0; color:#FFD700;">👁️ CV Detection</h4>
-          <p>Realtime object detection với NN tùy chỉnh.</p>
+          <img src="https://via.placeholder.com/300x150/FFD700/1a1a1a?text=CV+Detection" alt="CV Detection" style="border-radius:6px; margin-bottom:8px;" width="280"/>
         </a>
+        <h4 style="margin:4px 0; color:#FFD700;">👁️ CV Detection</h4>
+        <p style="max-width:280px; color:#ddd; font-size:14px;">
+          Triển khai hệ thống nhận diện đối tượng realtime với mô hình neural network tùy chỉnh.
+        </p>
       </td>
     </tr>
   </table>
