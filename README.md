@@ -1,10 +1,12 @@
 <!-- HEADER BANNER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nguyễn%20Phạm&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Banner"/>
   <h2 style="margin-top:-25px; color:#ffffff;">🧠 AI &amp; ML Engineer</h2>
 </div>
 
 <!-- CONTACT BADGES -->
+
 <p align="center">
   <a href="mailto:phamnguyen.devwk@gmail.com">
     <img src="https://img.shields.io/badge/📫-Email-red?style=for-the-badge&labelColor=1a1a1a&color=FF4B4B" alt="Email">
@@ -12,10 +14,11 @@
   <a href="https://github.com/nguyendevwk">
     <img src="https://img.shields.io/badge/💻-GitHub-black?style=for-the-badge&labelColor=1a1a1a&color=20BEFF" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/👁️-Views-brightgreen?style=for-the-badge&labelColor=1a1a1a" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=for-the-badge&label=👁️%20Views" alt="Views">
 </p>
 
 ---
+
 ---
 
 ## 🚀 Kỹ năng nổi bật
@@ -56,7 +59,7 @@
         </a>
         <h4 style="margin:4px 0; color:#00BFFF;">🔍 LLM Research</h4>
         <p style="max-width:280px; color:#ddd; font-size:14px;">
-          Fine-tune và tối ưu hóa Large Language Models cho các lĩnh vực chuyên biệt.
+          Fine-tune &amp; tối ưu LLM cho domain chuyên biệt.
         </p>
       </td>
       <td width="20"></td> <!-- spacer -->
@@ -66,7 +69,7 @@
         </a>
         <h4 style="margin:4px 0; color:#FFD700;">👁️ CV Detection</h4>
         <p style="max-width:280px; color:#ddd; font-size:14px;">
-          Triển khai hệ thống nhận diện đối tượng realtime với mô hình neural network tùy chỉnh.
+          Nhận diện đối tượng realtime với NN tuỳ chỉnh.
         </p>
       </td>
     </tr>
@@ -85,6 +88,7 @@
 ---
 
 <!-- FOOTER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" alt="Footer"/>
   <p style="margin-top:-10px; color:#ffffff;">💡 “AI không chỉ để hiểu thế giới, mà còn để tạo nên giá trị.”</p>
