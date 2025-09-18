@@ -1,262 +1,147 @@
-<!-- HEADER BANNER -->
+<!-- ===== HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:06b6d4,100:8b5cf6&height=200&section=header&text=Nguyễn%20Phạm&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:06b6d4,100:8b5cf6&height=200&section=header&text=Nguyễn%20Phạm&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=AI%20Research%20Engineer%20%7C%20Solutions%20Developer&descAlignY=55&descSize=18" width="100%" alt="Banner"/>
 </div>
 
-<!-- ANIMATED TYPING EFFECT -->
+<!-- DEV ANIMATION - NAM ĐẸP HƠN -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=AI+Engineer+%E2%80%A2+Machine+Learning;Computer+Vision+%E2%80%A2+NLP+Specialist;Django+%E2%80%A2+FastAPI+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Developer Coding Animation"/>
 </div>
 
-<!-- CONTACT & SOCIAL BADGES -->
+<!-- TYPING = TỪ KHÓA NGẮN GỌN với ICONS -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=4ADE80&center=true&vCenter=true&width=680&lines=🤖+AI+Research+%7C+👁️+Computer+Vision+%7C+💬+NLP;⚙️+Optimization:+GA+%2F+PSO+%2F+HGWO;🚀+Applied+AI+%7C+🌐+Full-Stack+Solutions;⚡+Efficient+Systems+%7C+📊+Practical+Impact" alt="Typing SVG" />
+</div>
+
+<!-- ===== CONTACT với ANIMATED ICONS ===== -->
 <p align="center">
   <a href="mailto:phamnguyen.devwk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-phamnguyen.devwk@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧%20Email-phamnguyen.devwk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email">
   </a>
   <a href="https://github.com/nguyendevwk">
-    <img src="https://img.shields.io/badge/GitHub-nguyendevwk-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/🐱%20GitHub-nguyendevwk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=for-the-badge&color=8b5cf6&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=for-the-badge&color=blueviolet&label=👀%20Views" alt="Profile Views">
 </p>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  About Me 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```
-🎯 AI Engineer tập trung vào Computer Vision & NLP
-🚀 Phát triển các giải pháp AI thực tế và tối ưu hóa
-🔬 Nghiên cứu và ứng dụng thuật toán tối ưu hóa
-💻 Full-stack Developer với Django & FastAPI
-🌱 Đang học sâu về LLMs và Generative AI
-📚 Yêu thích chia sẻ kiến thức qua code
-```
-
-<br clear="both"/>
+<!-- ===== ABOUT (CHỈ TỪ KHÓA) ===== -->
+<h3 align="center">🎯 Research Focus</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/🤖%20AI%20Research-4ade80?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-06b6d4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/💬%20NLP-8b5cf6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚙️%20Optimization-f59e0b?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Applied%20AI-ef4444?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊%20Scheduling-10b981?style=flat-square&logoColor=white"/>
+</p>
 
 ---
 
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
+<!-- ===== TECH STACK (ICON ONLY) ===== -->
+<h3 align="center">🛠️ Tech Arsenal</h3>
 <div align="center">
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
-</p>
-
-### 🤖 AI/ML Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🌐 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,redis&theme=dark" />
-</p>
-
-### ☁️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark" />
-</p>
-
+  <!-- AI/ML -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI/ML"/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgresql&theme=dark" alt="Backend"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Frontend"/>
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" alt="DevOps"/>
 </div>
 
+<p align="center">
+<code>OpenCV</code> • <code>scikit-learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>vLLM / TensorRT-LLM</code> • <code>Ray / Celery</code> • <code>Redis</code>
+</p>
+
 ---
 
-<!-- CORE EXPERTISE WITH VENOM EFFECT -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:4ade80,100:06b6d4&text=Core%20Expertise&fontSize=40&fontColor=ffffff&fontAlignY=70" width="100%"/>
-</div>
+<!-- ===== HIGHLIGHTS (RẤT NGẮN) ===== -->
+<h3 align="center">⚡ Highlights</h3>
 
 <div align="center">
-
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🤖 Machine Learning</h3>
-      <p>
-        • Supervised/Unsupervised Learning<br>
-        • Model Optimization & Deployment<br>
-        • MLOps & Pipeline Development
-      </p>
-    </td>
-    <td width="33%" align="center">
-      <h3>👁️ Computer Vision</h3>
-      <p>
-        • Object Detection & Recognition<br>
-        • Image Processing & Analysis<br>
-        • Real-time Inference Optimization
-      </p>
-    </td>
-    <td width="33%" align="center">
-      <h3>💬 NLP</h3>
-      <p>
-        • Vietnamese NLP (PhoBERT)<br>
-        • Sentiment Analysis<br>
-        • Text Classification & Generation
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>⚙️ Optimization</h3>
-      <p>
-        • Genetic Algorithms (GA)<br>
-        • Particle Swarm Optimization<br>
-        • Hybrid Algorithms (HGWO-GA)
-      </p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌐 Web Development</h3>
-      <p>
-        • Django REST Framework<br>
-        • FastAPI & Async Programming<br>
-        • SEO Optimization
-      </p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🐳 DevOps</h3>
-      <p>
-        • Docker Containerization<br>
-        • CI/CD Pipelines<br>
-        • Cloud Deployment
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="Algorithm"/>
+<br><strong>🎯 Optimization</strong>
+<br><sub>GA/PSO/HGWO → lập lịch ràng buộc<br>chi phí thấp, ổn định</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="80" alt="Brain AI"/>
+<br><strong>🇻🇳 Vietnamese NLP</strong>
+<br><sub>trích xuất ngữ nghĩa<br>cải thiện độ tin cậy LLM</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="80" alt="Rocket Launch"/>
+<br><strong>🚀 Applied AI</strong>
+<br><sub>tích hợp end-to-end<br>triển khai nhanh, có số liệu</sub>
+</td>
+</tr>
 </table>
+</div>
+
+---
+
+<!-- ===== PROJECTS ===== -->
+<h3 align="center">📂 Key Projects</h3>
+<div align="center">
+
+| Project | Focus | Tech |
+|---------|-------|------|
+| **[🎯 AI Scheduler](https://github.com/nguyendevwk/Scheduler_Django_API)** | GA/PSO Optimization | Django + Algorithm Research |
+| **[📚 Dictionary Engine](https://github.com/nguyendevwk/EnglishDictionaryEngine)** | NLP + Semantic Search | Python + Text Processing |
+| **[🌐 SEO Blog Platform](https://github.com/nguyendevwk/django-landing-blog-seo)** | Full-Stack AI Integration | Django + SEO Optimization |
+| **[🎨 Bootstrap Template](https://github.com/nguyendevwk/template-html-css-boostrap-4)** | Responsive UI Framework | HTML + CSS + Bootstrap |
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- ===== COLLABORATION với ANIMATED CONTACT ===== -->
+<h3 align="center">🤝 Open for Collaboration</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/🤖%20AI%20Optimization-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👁️%20CV%2FNLP%20Systems-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Efficient%20Inference-warning?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🇻🇳%20Vietnamese%20LLMs-blueviolet?style=for-the-badge"/>
+</p>
 
 <div align="center">
-
-### 🌟 My Recent Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 AI Scheduler System</h3>
-      <div align="center">
-        <a href="https://github.com/nguyendevwk/Scheduler_Django_API">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevwk&repo=Scheduler_Django_API&theme=tokyonight"/>
-        </a>
-      </div>
-      <p align="center">
-        🔥 Django API với thuật toán GA, PSO, HGWO-GA cho tối ưu hóa lập lịch
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 English Dictionary Engine</h3>
-      <div align="center">
-        <a href="https://github.com/nguyendevwk/EnglishDictionaryEngine">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevwk&repo=EnglishDictionaryEngine&theme=tokyonight"/>
-        </a>
-      </div>
-      <p align="center">
-        🎯 NLP-powered dictionary với advanced search và phân tích ngữ nghĩa
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Django SEO Blog Platform</h3>
-      <div align="center">
-        <a href="https://github.com/nguyendevwk/django-landing-blog-seo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevwk&repo=django-landing-blog-seo&theme=tokyonight"/>
-        </a>
-      </div>
-      <p align="center">
-        ✨ Full-featured blog platform với SEO optimization và responsive design
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 Bootstrap Template</h3>
-      <div align="center">
-        <a href="https://github.com/nguyendevwk/template-html-css-boostrap-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevwk&repo=template-html-css-boostrap-4&theme=tokyonight"/>
-        </a>
-      </div>
-      <p align="center">
-        🔧 Professional Bootstrap 4 template với modern design
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!-- GITHUB STATS - SIMPLIFIED -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nguyendevwk&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendevwk&theme=tokyonight"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevwk&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendevwk&theme=tokyo-night" width="98%"/>
-
-</div>
-
----
-
-<!-- CONTACT & COLLABORATION -->
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
-
-<div align="center">
-
-| 🤝 Open for Collaboration | 💬 Ask Me About | 📚 Currently Learning |
-|:---:|:---:|:---:|
-| AI Projects • Open Source • Research | Computer Vision • NLP • Django • FastAPI | LLMs • Generative AI • MLOps |
-
-### 📬 Get In Touch
-
-<p>
   <a href="mailto:phamnguyen.devwk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-phamnguyen.devwk@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/💬%20Let's%20Collaborate-Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email">
   </a>
-  <a href="https://github.com/nguyendevwk">
-    <img src="https://img.shields.io/badge/Follow-@nguyendevwk-06b6d4?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyendevwk&show_icons=true&theme=react&bg_color=1F222E&title_color=4ADE80&icon_color=06B6D4&text_color=ffffff&border_color=8B5CF6&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevwk&layout=compact&theme=react&bg_color=1F222E&title_color=4ADE80&text_color=ffffff&border_color=8B5CF6&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyendevwk&bg_color=1F222E&color=4ADE80&line=06B6D4&point=8B5CF6&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<!-- ===== SNAKE ANIMATION ===== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<!-- FOOTER -->
+<!-- ===== FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:06b6d4,100:8b5cf6&height=100&section=footer" width="100%"/>
-  <p style="margin-top:-30px;">
-    💡 <strong>"AI để tối ưu – Code để kiến tạo – Innovation để thay đổi thế giới"</strong>
-  </p>
-  <p>
-    ⭐ Star my repositories if you find them useful!
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:06b6d4,100:8b5cf6&height=100&section=footer" width="100%" alt="Footer"/>
+  <p style="margin-top:-28px;"><strong>🔬 Research-driven AI • 💡 Practical Impact</strong></p>
+  <p><em>"Innovation through research, impact through code"</em></p>
 </div>
