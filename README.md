@@ -1,88 +1,56 @@
 <!-- HEADER BANNER -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nguyễn%20Phạm&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Banner"/>
-  <h2 style="margin-top:-25px; color:#ffffff;">🧠 AI &amp; ML Engineer</h2>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=180&section=header&text=Nguyễn%20Phạm&fontSize=70&fontAlignY=40&animation=scaleIn&fontColor=ffffff" width="100%" alt="Banner"/>
+  <h3 style="margin-top:-25px; color:#fff; font-weight:400;">AI • ML • Minimalist</h3>
 </div>
 
 <!-- CONTACT BADGES -->
 
 <p align="center">
   <a href="mailto:phamnguyen.devwk@gmail.com">
-    <img src="https://img.shields.io/badge/📫-Email-red?style=for-the-badge&labelColor=1a1a1a&color=FF4B4B" alt="Email">
+    <img src="https://img.shields.io/badge/email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/nguyendevwk">
-    <img src="https://img.shields.io/badge/💻-GitHub-black?style=for-the-badge&labelColor=1a1a1a&color=20BEFF" alt="GitHub">
+    <img src="https://img.shields.io/badge/github-nguyendevwk-000?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=for-the-badge&label=👁️%20Views" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=flat-square&color=blue&label=views" alt="Views">
 </p>
 
 ---
 
+## ✨ Skills Snapshot
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker&theme=dark"/>
+</p>
+<p align="center" style="color:#888; font-size:14px;">
+  Python • PyTorch • TensorFlow • OpenCV • FastAPI • Docker
+</p>
+
 ---
 
-## 🚀 Kỹ năng nổi bật
+## 🌌 Featured Work
 
 <div align="center">
-  <!-- Card wrapper -->
-  <div style="display: inline-block; background: #1a1a1a; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
-    <!-- Row of icons -->
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" style="margin:0 12px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch" style="margin:0 12px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" style="margin:0 12px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" title="OpenCV" style="margin:0 12px;" />
-      <img src="https://img.shields.io/badge/ONNX-0061F2?style=flat-square&logo=onnx&logoColor=white" height="40" title="ONNX" style="margin:0 12px;" />
-      <img src="https://img.shields.io/badge/GA-9370DB?style=flat-square&logoColor=white" height="40" title="Genetic Algorithm" style="margin:0 12px;" />
-      <img src="https://img.shields.io/badge/PSO-4169E1?style=flat-square&logoColor=white" height="40" title="Particle Swarm" style="margin:0 12px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" style="margin:0 12px;" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker" style="margin:0 12px;" />
-    </p>
-    <!-- Labels row -->
-    <p style="color:#ccc; font-size:14px; margin:8px 0 0;">
-      Python • PyTorch • TensorFlow • OpenCV • ONNX  
-      • Genetic Algorithm • PSO • FastAPI • Docker
-    </p>
-  </div>
+
+<a href="https://github.com/nguyendevwk/llm-research">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevwk&repo=llm-research&theme=dark&hide_border=true"/>
+</a>
+<a href="https://github.com/nguyendevwk/cv-object-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyendevwk&repo=cv-object-detection&theme=dark&hide_border=true"/>
+</a>
+
 </div>
 
 ---
 
-## 🌟 Dự án nổi bật
+## 📊 Stats (Minimal & Fresh)
 
 <div align="center">
-  <table cellpadding="12">
-    <tr>
-      <td align="center" style="background:#111; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.6);">
-        <a href="https://github.com/nguyendevwk/llm-research">
-          <img src="https://via.placeholder.com/300x150/00BFFF/ffffff?text=LLM+Research" alt="LLM Research" style="border-radius:6px; margin-bottom:8px;" width="280"/>
-        </a>
-        <h4 style="margin:4px 0; color:#00BFFF;">🔍 LLM Research</h4>
-        <p style="max-width:280px; color:#ddd; font-size:14px;">
-          Fine-tune &amp; tối ưu LLM cho domain chuyên biệt.
-        </p>
-      </td>
-      <td width="20"></td> <!-- spacer -->
-      <td align="center" style="background:#111; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.6);">
-        <a href="https://github.com/nguyendevwk/cv-object-detection">
-          <img src="https://via.placeholder.com/300x150/FFD700/1a1a1a?text=CV+Detection" alt="CV Detection" style="border-radius:6px; margin-bottom:8px;" width="280"/>
-        </a>
-        <h4 style="margin:4px 0; color:#FFD700;">👁️ CV Detection</h4>
-        <p style="max-width:280px; color:#ddd; font-size:14px;">
-          Nhận diện đối tượng realtime với NN tuỳ chỉnh.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 Thống kê GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyendevwk&show_icons=true&theme=radical&hide_border=true" width="45%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyendevwk&theme=radical&hide_border=true" width="45%" alt="Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyendevwk&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyendevwk&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyendevwk&theme=tokyonight" width="45%"/>
 </div>
 
 ---
@@ -90,6 +58,6 @@
 <!-- FOOTER -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" alt="Footer"/>
-  <p style="margin-top:-10px; color:#ffffff;">💡 “AI không chỉ để hiểu thế giới, mà còn để tạo nên giá trị.”</p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=80&section=footer" width="100%" alt="Footer"/>
+  <p style="margin-top:-10px; color:#aaa; font-style:italic;">“Code ít thôi, ý tưởng phải nhiều.”</p>
 </div>
