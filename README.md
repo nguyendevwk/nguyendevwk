@@ -27,7 +27,7 @@ AI Research Engineer · Vietnamese Speech & Language · Solutions Developer
 Python · PyTorch · TensorFlow · OpenCV · scikit-learn · Pandas · NumPy
 
 **Speech & Language**
-Whisper · VITS / XTTS · Transformers · underthesea · pyvi
+Whisper · GwenASR/GwenTTS · Wav2Vec2 · Transformers · underthesea · pyvi
 
 **Inference & Serving**
 vLLM · TensorRT-LLM · FastAPI · Celery · Redis
