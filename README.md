@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <div align="center">
 
 # Nguyễn Phạm
@@ -45,15 +44,6 @@ Django · PostgreSQL · Docker · Git · Linux
 | [AI Scheduler](https://github.com/nguyendevwk/Scheduler_Django_API) | GA/PSO constraint scheduling | Django · Algorithm Research |
 | [Dictionary Engine](https://github.com/nguyendevwk/EnglishDictionaryEngine) | NLP + Semantic search | Python · Text Processing |
 | [SEO Blog Platform](https://github.com/nguyendevwk/django-landing-blog-seo) | Full-stack AI integration | Django · SEO |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyendevwk&show_icons=true&theme=react&bg_color=1F222E&title_color=4ADE80&icon_color=06B6D4&text_color=ffffff&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendevwk&layout=compact&theme=react&bg_color=1F222E&title_color=4ADE80&text_color=ffffff&hide_border=true"/>
-</div>
 
 ---
 
