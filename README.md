@@ -1,50 +1,44 @@
 <!-- HEADER -->
 <div align="center">
-  <h1>Nguyễn Phạm</h1>
-  <p>AI Research Engineer · Vietnamese Speech & Language · Solutions Developer</p>
+
+# Nguyễn Phạm
+
+AI Research Engineer · Vietnamese Speech & Language · Solutions Developer
+
+[![Email](https://img.shields.io/badge/phamnguyen.devwk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phamnguyen.devwk@gmail.com)
+[![GitHub](https://img.shields.io/badge/nguyendevwk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nguyendevwk)
+
 </div>
 
-<p align="center">
-  <a href="mailto:phamnguyen.devwk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-phamnguyen.devwk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nguyendevwk">
-    <img src="https://img.shields.io/badge/GitHub-nguyendevwk-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nguyendevwk&style=flat-square&color=blueviolet"/>
-</p>
+---
+
+## 🔬 Research Focus
+
+- 🇻🇳 **Vietnamese NLP** — trích xuất ngữ nghĩa, xử lý văn bản, cải thiện độ tin cậy LLM
+- 🎙️ **ASR** — nhận dạng tiếng nói tiếng Việt, acoustic modeling
+- 🔊 **TTS** — tổng hợp giọng nói tiếng Việt, prosody
+- ⚙️ **Optimization** — GA / PSO / HGWO cho bài toán lập lịch có ràng buộc
+- 👁️ **Computer Vision** — xây dựng pipeline CV ứng dụng thực tế
 
 ---
 
-## Research Focus
-
-| Area | Description |
-|------|-------------|
-| 🇻🇳 **Vietnamese NLP** | Text processing, semantic extraction, LLM reliability |
-| 🎙️ **ASR (Speech Recognition)** | Vietnamese speech-to-text, acoustic modeling |
-| 🔊 **TTS (Text-to-Speech)** | Vietnamese voice synthesis, prosody |
-| ⚙️ **Optimization** | GA / PSO / HGWO for scheduling & constraint problems |
-| 👁️ **Computer Vision** | Applied CV pipelines |
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 **AI / ML**
-`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `scikit-learn` · `Pandas` · `NumPy`
+Python · PyTorch · TensorFlow · OpenCV · scikit-learn · Pandas · NumPy
 
 **Speech & Language**
-`Whisper` · `VITS / XTTS` · `Transformers (HuggingFace)` · `underthesea` · `pyvi`
+Whisper · VITS / XTTS · Transformers · underthesea · pyvi
 
 **Inference & Serving**
-`vLLM` · `TensorRT-LLM` · `FastAPI` · `Celery` · `Redis`
+vLLM · TensorRT-LLM · FastAPI · Celery · Redis
 
 **Backend / DevOps**
-`Django` · `PostgreSQL` · `Docker` · `Git` · `Linux`
+Django · PostgreSQL · Docker · Git · Linux
 
 ---
 
-## Key Projects
+## 📂 Projects
 
 | Project | Focus | Tech |
 |---------|-------|------|
@@ -54,7 +48,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyendevwk&show_icons=true&theme=react&bg_color=1F222E&title_color=4ADE80&icon_color=06B6D4&text_color=ffffff&hide_border=true"/>
@@ -63,4 +57,6 @@
 
 ---
 
-<p align="center"><em>Research-driven AI · Practical Impact</em></p>
+<div align="center">
+  <sub>Research-driven AI · Practical Impact</sub>
+</div>
